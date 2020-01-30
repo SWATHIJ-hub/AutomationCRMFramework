@@ -11,6 +11,6 @@ public class BaseClass {
 		System.out.println("from BSs");
 		System.out.println("from CSS");
                  System.out.print("Form gss");
-		System.out.print("Form gss");
+		System.out.print("Form g");
 	}
 }
